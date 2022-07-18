@@ -1,0 +1,33 @@
+.container{
+	margin-top: 100px;
+	
+}
+.cmd-3{
+	background: grey ;
+	color: white;
+	height: 120px;
+	
+
+}
+.cmd-1{
+	border: 1px solid grey;
+	color: black;
+	background: lightgrey;
+	text-align: center;
+	height: 89px;
+}
+.cmd-2{
+	border: 1px solid grey;
+	background: orange;
+	color: white;
+	text-align: center;
+	height: 89px;
+}
+p{
+	font-size: 30px;
+	font-weight: 50px;
+	}
+.content{
+	text-align: right;
+	color: white;
+}
